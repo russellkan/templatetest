@@ -1,6 +1,6 @@
 ---
 name: Other (blank template)
-about: For other issues
+about: For any other issues
 title: ''
 labels: ''
 assignees: ''
