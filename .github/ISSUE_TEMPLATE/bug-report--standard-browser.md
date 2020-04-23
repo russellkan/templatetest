@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: 'Bug report: standard browser'
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: browser, bug
 assignees: ''
 
 ---
